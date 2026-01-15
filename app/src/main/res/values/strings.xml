@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Irene</string>
+    <string name="channel_id">通知ID</string>
+    <string name="notice_title">哇嘎</string>
+</resources>
